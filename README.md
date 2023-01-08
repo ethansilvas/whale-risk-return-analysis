@@ -1,4 +1,4 @@
-# Module 4 Challenge - Whale Risk-Return Analysis
+# Whale Risk-Return Analysis - UW Fintech Bootcamp Module 4 Challenge
 
 This is my risk-return analysis of four legendary hedge funds (whales) compared to the S&P 500 to determine the fund with the most investment potential based on their daily returns, standard deviations, Sharpe ratios, and betas. The data used is is a collection of net asset value pricing from Soros Management LLC, Paulson & Co. INC., Tiger Global Management LLC, Berkshire Hathaway INC, and the timestamp-correlated closing prices of the S&P 500:
 
